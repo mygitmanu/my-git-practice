@@ -1,1 +1,1 @@
-changes in master branch in same line
+chnages in new feature branch 
